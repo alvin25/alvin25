@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ukirama](https://ukirama.com/)
+- 🔭 I’m currently working at [ukirama](https://ukirama.com/) as Full Stack Web Developer
 <!--
 **alvin25/alvin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
